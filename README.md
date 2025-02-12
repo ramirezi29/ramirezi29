@@ -10,8 +10,8 @@
 
 - 🖥️ Over 6 years of iOS development experience.
 - 📝 Currently working at Apple as Software Content Engineer.
-- 📱 Self-taught developer passionate about creating apps
-- 🧑‍🏫 Mentored dozens of developers to launch their own apps
+- 📱 Self-taught developer passionate about creating apps.
+- 🧑‍🏫 Mentored dozens of developers to launch their own apps.
 
 ---
 
